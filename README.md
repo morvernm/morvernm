@@ -1,8 +1,6 @@
 ## Hi there 👋 
 I'm Morvern, I'm a developer based in Glasgow.
 
-🌱 I’m currently learning Spring Boot
-
 <!--
 **morvernm/morvernm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
